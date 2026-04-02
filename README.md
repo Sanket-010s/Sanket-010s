@@ -1,6 +1,6 @@
 # 💫 Hey! I am Sanket
 
-🔭 I’m currently working on Full Stack Development & ML<br><br>🌱 I’m currently 2nd Year Student of B.Tech in Computer Science & Engineering<br><br>🤝 I’m looking for help with AI & ML<br><br>📫 How to reach me sanketsutar010@gmail.com<br><br>⚡ Passionate about Photography, Cinematography and Graphic Design.
+🌱 2nd Year Student of B.Tech in Computer Science & Engineering<br><br>🔭 I’m currently working on Full Stack Development & ML<br><br>🤝 I’m looking for help with AI & ML<br><br>📫 How to reach me sanketsutar010@gmail.com<br><br>⚡ Passionate about Photography, Cinematography and Graphic Design.
 
 
 ## 🌐 Socials:
